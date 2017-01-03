@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Update CSS variables with JS</title>
+    <link rel="stylesheet" href="css/master.css">
+    
+    
+</head>
+<body>
+    <section id="content">
+        <h1>Update CSS variables with <span class="hl">JS</span> </h1>
+        <div class="controls">
+            <label for="spacing">Spacing:</label>
+            <input type="range" name="spacing" min="10" max="200" value="10" data-sizing="px">
+
+            <label for="blur">Blur:</label>
+            <input type="range" name="blur" min="0" max="25" value="10" data-sizing="px">
+
+            <label for="base">Base Color:</label>
+            <input type="color" name="base" value="#ffc600">
+        </div>
+
+        <img src="images/night-landscape.jpg" alt="night-landscape" id="night-landscape">
+    </section>
+<script src="scripts/main.js"></script>    
+</body>
+</html>

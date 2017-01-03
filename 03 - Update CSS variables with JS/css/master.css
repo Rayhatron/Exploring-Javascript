@@ -1,0 +1,56 @@
+/* Css variables */
+
+:root{
+    --base: #ffc600;
+    --spacing: 10px;
+    --blur: 10px;
+}
+
+/*Normal css */
+
+html, body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#content{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: linear-gradient(45deg, thistle, peru);
+    color: #fff;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+}
+
+label{
+    font-size: 1.8rem;
+}
+
+.controls{
+    width: 100%;
+    text-align: center;
+}
+
+#night-landscape{
+    width: 576px;
+    height: 381px;
+    padding: var(--spacing);
+    background-color: var(--base);
+    filter: blur(var(--blur));
+
+}
+
+.hl{
+    color: var(--base);
+}
+
