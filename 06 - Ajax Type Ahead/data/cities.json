@@ -1,0 +1,211 @@
+{"cities" : [
+    {
+        "city": "Harare",
+        "latitude": -17.831554,
+        "longitude": 31.046047,
+        "population": 1485231,
+        "rank": 1,
+        "province": "Harare"
+    },
+    {
+        "city": "Bulawayo",
+        "latitude": -20.154727,
+        "longitude": 28.585768,
+        "population": 653337,
+        "rank": 2,
+        "province": "Bulawayo"
+    },
+    {
+        "city": "Chitungwiza",
+        "latitude": -18.005978,
+        "longitude":  31.061886,
+        "population": 356840,
+        "rank": 3,
+        "province": "Mashonaland East"
+    },
+    {
+        "city": "Mutare",
+        "latitude": -18.973308, 
+        "longitude": 32.666481,
+        "population": 187621,
+        "rank": 4,
+        "province": "Manicaland"
+    },
+    {
+        "city": "Epworth",
+        "latitude": -17.897922,  
+        "longitude": 31.158920,
+        "population": 167462,
+        "rank": 5,
+        "province": "Harare"
+    },
+    {
+        "city": "Gweru",
+        "latitude": -19.456947, 
+        "longitude": 29.814178,
+        "population": 157865,
+        "rank": 6,
+        "province": "Midlands"
+    },
+    {
+        "city": "Kwekwe",
+        "latitude": -18.932413, 
+        "longitude": 29.806970,
+        "population": 100900,
+        "rank": 7,
+        "province": "Midlands"
+    },
+    {
+        "city": "Kadoma",
+        "latitude": -18.335464, 
+        "longitude": 29.913138,
+        "population": 92469,
+        "rank": 8,
+        "province": "Mashonaland West"
+    },
+    {
+        "city": "Masvingo",
+        "latitude": -20.073303,  
+        "longitude": 30.833932,
+        "population": 87866,
+        "rank": 9,
+        "province": "Masvingo"
+    },
+    {
+        "city": "Chinhoyi",
+        "latitude": -17.357968,  
+        "longitude": 30.198757,
+        "population": 77929,
+        "rank": 10,
+        "province": "Mashonaland West"
+    },
+    {
+        "city": "Norton",
+        "latitude": -17.876681, 
+        "longitude": 30.677534 ,
+        "population": 67591,
+        "rank": 11,
+        "province": "Mashonaland West"
+    },
+    {
+        "city": "Marondera",
+        "latitude": -18.189822, 
+        "longitude": 31.544003,
+        "population": 61998,
+        "rank": 12,
+        "province": "Mashonaland East"
+    },
+    {
+        "city": "Ruwa",
+        "latitude": -17.902707, 
+        "longitude": 31.236741, 
+        "population": 56678,
+        "rank": 13,
+        "province": "Mashonaland East"
+    },
+    {
+        "city": "Chegutu",
+        "latitude": -18.133779,  
+        "longitude": 30.144878,
+        "population": 50255,
+        "rank": 14,
+        "province": "Mashonaland West"
+    },
+    {
+        "city": "Zvishavane",
+        "latitude": -20.316034,  
+        "longitude": 30.055103,
+        "population": 45230,
+        "rank": 15,
+        "province": "Midlands"
+    },
+    {
+        "city": "Bindura",
+        "latitude": -17.308739,  
+        "longitude": 31.331903,
+        "population": 42861,
+        "rank": 16,
+        "province": "Mashonaland Central"
+    },
+    {
+        "city": "Beitbridge",
+        "latitude": -22.213939,  
+        "longitude": 29.992267,
+        "population": 41767,
+        "rank": 17,
+        "province": "Matabeleland South"
+    },
+    {
+        "city": "Redcliff",
+        "latitude": -19.013767, 
+        "longitude": 29.777002 ,
+        "population": 35904,
+        "rank": 18,
+        "province": "Midlands"
+    },
+    {
+        "city": "Victoria Falls",
+        "latitude": -17.928304, 
+        "longitude": 25.842926 ,
+        "population": 33660,
+        "rank": 19,
+        "province": "Matabeleland North"
+    },
+    {
+        "city": "Rusape",
+        "latitude": -18.530367, 
+        "longitude": 32.123570,
+        "population": 30316,
+        "rank": 20,
+        "province": "Manicaland"
+    },
+    {
+        "city": "Chiredzi",
+        "latitude": -21.045151,  
+        "longitude": 31.668836,
+        "population": 30197,
+        "rank": 21,
+        "province": "Masvingo"
+    },
+    {
+        "city": "Kariba",
+        "latitude": -16.524633,  
+        "longitude": 28.802635,
+        "population": 26112,
+        "rank": 22,
+        "province": "Mashonaland West"
+    },
+    {
+        "city": "Karoi",
+        "latitude": -16.818366,  
+        "longitude": 29.684150,
+        "population": 26009,
+        "rank": 23,
+        "province": "Mashonaland West"
+    },
+    {
+        "city": "Chipinge",
+        "latitude": -20.190823,  
+        "longitude": 32.619684,
+        "population": 25214,
+        "rank": 24,
+        "province": "Manicaland"
+    },
+    {
+        "city": "Gokwe",
+        "latitude": -18.216591,  
+        "longitude": 28.946614,
+        "population": 23906,
+        "rank": 25,
+        "province": "Midlands"
+    },
+    {
+        "city": "Shurugwi",
+        "latitude": -19.677082, 
+        "longitude": 29.976934,
+        "population": 21501,
+        "rank": 26,
+        "province": "Midlands"
+    }
+]
+}
