@@ -1,4 +1,4 @@
-{"cities" : [
+[
     {
         "city": "Harare",
         "latitude": -17.831554,
@@ -208,4 +208,3 @@
         "province": "Midlands"
     }
 ]
-}
