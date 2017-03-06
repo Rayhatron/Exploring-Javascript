@@ -1,7 +1,7 @@
 
 const dogs = [{name: 'Snickers', age: 2}, {name: 'Hugo', age: 8}, {name: 'Ace', age: 5}];
 
-const makeGreen(){
+const makeGreen = () => {
     const p = document.querySelector('p');
     p.style.color = '#BADA55';
     p.style.fontSize = '50px';
@@ -32,7 +32,7 @@ console.info('The sun is hot');
 console.assert( 1 === 2, 'That is wrong, revise your math.');
 
 // clearing
-console.clear();
+//console.clear();
 
 // viewing dom elements
 
@@ -41,7 +41,7 @@ const p = document.querySelector('p');
 console.log(p);
 console.dir();
 
-console.clear();
+//console.clear();
 
 // grouping together
 dogs.forEach(dog => {
